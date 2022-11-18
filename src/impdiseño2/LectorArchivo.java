@@ -1,3 +1,5 @@
+package impdiseño2;
+
 import java.util.List;
 
 public class LectorArchivo {

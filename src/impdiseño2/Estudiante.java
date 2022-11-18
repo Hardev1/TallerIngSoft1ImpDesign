@@ -1,3 +1,5 @@
+package impdiseño2;
+
 import java.util.Set;
 
 public class Estudiante {
@@ -8,8 +10,10 @@ public class Estudiante {
 	}
 	
 	public boolean adicionarMateria(String codigoMateria) {
+		return false;
 	}
 	
 	public String toString() {
+		return cedula;
 	}
 }
